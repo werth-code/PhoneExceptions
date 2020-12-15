@@ -1,10 +1,6 @@
 package com.codedifferently.tools;
 import java.util.*;
 
-/**
- * Created by Leon on 2/4/2017.
- */
-
 public abstract class RandomNumberFactory {
     private static final Random random = new Random();
 
